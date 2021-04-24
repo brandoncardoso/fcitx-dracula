@@ -1,5 +1,5 @@
 # fcitx-dracula
-[Fcitx](//github.com/fcitx/fcitx) Dracula theme/skin.
+A dark [Fcitx](//github.com/fcitx/fcitx) skin using the [Dracula color scheme](//draculatheme.com).
 
 ![preview of fcitx dracula skin](./preview.png)
 
